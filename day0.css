@@ -1,0 +1,23 @@
+h3{
+    color: antiquewhite;
+}
+h2{
+    color: aqua;
+}
+h1,h2,h3,h4{
+    color: #7fff00;
+}*/
+*{
+    color: cyan;
+    background-color: black;
+}
+div>p{
+    color: blue;
+}
+div a{/* descendent selection*/
+    color: blue;
+}
+h1+h2{
+    /* adjusent sibling selector */
+    color: blue;
+}
